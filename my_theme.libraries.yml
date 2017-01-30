@@ -1,0 +1,15 @@
+global:
+  version: 1.x
+  css:
+    theme:
+      foundation/css/foundation.css: {}
+      css/styles.css: {}
+
+  js:
+    js/main.js: {}
+    foundation/js/vendor/what-input.js: {}
+    foundation/js/foundation.js: {}
+  dependencies:
+    - core/drupal
+    - core/jquery
+    - core/jquery.once

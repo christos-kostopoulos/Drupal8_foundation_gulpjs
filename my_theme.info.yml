@@ -1,0 +1,19 @@
+name: Averby Website
+type: theme
+description: 'This is a theme for averby website based on foundation'
+version: VERSION
+core: 8.x
+base theme: stable
+
+libraries:
+  - averby/global
+
+regions:
+  menus: Menus
+  search: Search
+  header: Header
+  breadcrumb: Breadcrumb
+  help: Help
+  content: Content
+  sidebar: Sidebar
+  footer: Footer

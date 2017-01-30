@@ -1,0 +1,1 @@
+!function(o){o("h1").css("color","yellow")}(jQuery);
